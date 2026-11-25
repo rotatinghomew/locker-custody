@@ -1,0 +1,2 @@
+{"fleet":"orchard","zones":["hill","river"],"services":["shop","locker","return"]}
+{"fleet":"ferry","zones":["hill"],"services":["shop","locker","return"]}

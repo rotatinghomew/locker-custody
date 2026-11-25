@@ -1,0 +1,7 @@
+{"fleet":"ferry","task":"51","parcel":"x1","revision":2,"state":"cancelled_before_pickup"}
+{"fleet":"orchard","task":"51","parcel":"x1","revision":1,"state":"accepted"}
+{"fleet":"ferry","task":"51","parcel":"x1","revision":1,"state":"accepted"}
+{"fleet":"orchard","task":"51","parcel":"x1","revision":2,"state":"in_custody","handoff":"h-out-x1"}
+{"fleet":"orchard","task":"51","parcel":"x1","revision":3,"state":"deposited","handoff":"h-out-x1","door":"r1","stay":"stay-r1-a"}
+{"fleet":"orchard","task":"51","parcel":"x1","revision":3,"state":"deposited","handoff":"h-out-x1","door":"r1","stay":"stay-r1-a"}
+{"fleet":"orchard","task":"52","parcel":"x2","revision":3,"state":"returned","handoff":"h-back-x2"}

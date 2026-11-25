@@ -1,0 +1,5 @@
+{"door":"h1","stay":"stay-h1-a","event":"l1","revision":1,"kind":"door_fault"}
+{"door":"r1","stay":"stay-r1-a","event":"l2","revision":2,"kind":"open"}
+{"door":"r1","stay":"stay-r1-a","event":"l3","revision":1,"kind":"occupied","parcel":"x1","handoff":"h-out-x1"}
+{"door":"h1","stay":"stay-h1-a","event":"l4","revision":2,"kind":"empty_after_abort"}
+{"door":"r1","stay":"stay-r1-a","event":"l5","revision":3,"kind":"empty_after_pickup","claim":"claim-x1"}
